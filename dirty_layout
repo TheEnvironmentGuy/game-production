@@ -1,0 +1,195 @@
+Game
+	GDD
+		Story
+			Concept Art
+			Game Design
+			Game Play
+  
+	ART
+		Modeling
+		Texturing
+		Animation
+		Game Design
+		Level Design
+  
+	TECH
+		Game Play
+		AI
+		Physics
+		GUI
+
+
+Pre Production:
+	Concept Document (pitch):
+		Breif desicription of game / idea
+			Inspiration
+			Combination of ideas
+			Genra
+			Story
+			Target Audience
+			Market
+			Platform
+	SWOT Analysis
+		Determine strengths and weakness of the team                
+		Stengths
+			Resources
+			Experience
+		Weaknesses
+			Lack of resources, experiences...
+		Oportunitys
+		Threats
+			Time
+			Health
+			Funding
+	GDD
+		Game design document describing the games concept and major
+		gameplay elements in detail.
+			Level / Environment attributes
+			Game Object attributes
+			Progression                                                
+			Characters
+			Challenges
+			lose or win scenarios
+			Mechanics
+	TDD
+		Technical Design Documentation. Like the GDD.
+			Tool needs
+			Platform
+			Performance test
+			Engine
+			Pipeline
+			naming conventions
+			project structure
+			exporting
+			Version Control
+	Visual Style
+		Concept art
+			Art Style
+			Character Art
+			Colour Palette
+				Hues
+				Saturation
+				Values
+				Colour swatches
+				What to avoid
+			Environment
+				Scale
+				Openness
+				Weather
+			Texture & Surface
+			UI                
+		Refrence  
+			Pictures
+			Mood boards              
+		Details
+			LOD
+			Doors fit character height
+			Readable text permitted?
+			Baked shadows?
+			etc...
+		Camera
+			FOV
+			FX
+			Story Sequences
+			Gamplay perspective and character position
+			saved image format            
+			Visual tests
+			Technical guide
+				What and whatnot to detail
+				Detail levels for UI, Gameplay, Narrative
+
+	Prototype
+		Proof of Concept made quickly implementing only basic design
+		design details. Will not be part of final product.
+		Game will be developed using this as a guidline.
+  
+	Breif:
+		Artists dont wade through large blocks of text                
+		Know the scope
+		Know the style
+		Knnow what its about
+		Know what tools will be used
+		Know how the varius parts work together
+		Know the game will be fun
+
+
+Production:
+	GDD
+		At least 90% complete
+		Have a production scedual prepared. 
+  
+	Programming
+		Gameplay
+		AI
+		Tools
+		Graphics
+
+	Art Production
+		Level Design
+		Modeling and animation
+		Audio production
+		UI
+		Textures
+  
+	Testing
+  
+	Milestones        
+		First Playable
+			Incomplete but functional game
+		Alpha
+			Complete base functionality, no additions.
+		Code Freeze
+			Playable content continus and code does not change
+		Beta
+			Feature and asset complete, only bug fixing.
+		Code Release
+			Bugs fixed and game ready to be shipped
+
+
+Post Production:
+	Patches and Updates
+	Customer Service
+
+
+Basic flow:
+	Software
+	Gamelplay
+	Art
+	Audio
+
+Community:
+	IGDA
+	CMP
+		gmasutra.com
+		gamecareerguide.com
+	gamedev.net
+	tigsource.com
+  
+
+Roles:
+	Producer
+	Director
+		Sort of manager, creates sceduals.
+	Design Director
+	Technical Director
+	Art Director
+	Audio Director
+	
+	Publisher
+	Development Team
+	Designer
+	Artist
+	Programmer
+	Level Designer
+	Sound Engineer
+	Tester
+    
+
+game costs:
+	Salaries
+	Reaserch and Development
+	Licenses and Royalty
+	Travel
+	Equipment
+        
+        
